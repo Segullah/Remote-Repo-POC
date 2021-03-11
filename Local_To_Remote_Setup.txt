@@ -1,2 +1,4 @@
-This is my first modification of the file.
+This is my first remote modification of the file.
 It is a remote change that I will then pull down to the local repo.
+This is my first local modification of the file.
+It is a local change that I will then push up to the remote repo.
